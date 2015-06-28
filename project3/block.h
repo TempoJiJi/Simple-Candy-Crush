@@ -19,7 +19,6 @@ public:
     explicit Block(int number,int place,bool rule,QWidget *parent=0);
     void get_position();
     void print_map();
-    void step_count(int step);
     void count(int score);
 protected:
     void mousePressEvent(QMouseEvent *ev);

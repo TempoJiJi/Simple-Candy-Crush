@@ -17,11 +17,7 @@ class BlockArea:public QWidget
 public:
     explicit BlockArea(QWidget *parent=0);
     void start_game();
-    void update_c(int x,int y);
-    void yoyo();
-    void print();
     void go_check_click();
-    void done_print();
 };
 
 #endif // BLOCKAREA_H
