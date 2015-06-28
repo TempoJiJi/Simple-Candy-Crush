@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/0.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/11.png</file>
+        <file>images/12.png</file>
+        <file>images/13.png</file>
+        <file>images/21.png</file>
+        <file>images/22.png</file>
+        <file>images/23.png</file>
+        <file>images/31.png</file>
+        <file>images/32.png</file>
+        <file>images/33.png</file>
+        <file>images/41.png</file>
+        <file>images/42.png</file>
+        <file>images/43.png</file>
+        <file>images/background.jpg</file>
+        <file>images/select_1.png</file>
+        <file>images/select_2.png</file>
+        <file>images/select_3.png</file>
+        <file>images/select_4.png</file>
+        <file>images/select_5.png</file>
+        <file>images/select_11.png</file>
+        <file>images/select_12.png</file>
+        <file>images/select_13.png</file>
+        <file>images/select_21.png</file>
+        <file>images/select_22.png</file>
+        <file>images/select_23.png</file>
+        <file>images/select_31.png</file>
+        <file>images/select_32.png</file>
+        <file>images/select_33.png</file>
+        <file>images/select_41.png</file>
+        <file>images/select_42.png</file>
+        <file>images/select_43.png</file>
+        <file>images/star_0.png</file>
+        <file>images/star_1.png</file>
+        <file>images/star_2.png</file>
+        <file>images/star_3.png</file>
+    </qresource>
+</RCC>
